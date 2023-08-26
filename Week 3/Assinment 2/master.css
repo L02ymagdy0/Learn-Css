@@ -1,0 +1,19 @@
+div {
+    width: 400px;
+    outline: 10px solid #EEE;
+    margin: 30px;
+    padding: 10px;
+}
+.one{
+    border-left: 4px #e91e63 solid;
+ 
+}
+.two{
+    border-left: 4px #009688 solid;
+    visibility: hidden;
+ 
+}
+.three{
+    border-left: 5px solid #1ab088
+ 
+}
