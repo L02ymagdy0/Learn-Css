@@ -1,0 +1,14 @@
+a {
+    display: block;
+color: white;
+text-align: center;
+text-transform: capitalize;
+background-color: #009688;
+text-decoration: none;
+width: fit-content;
+border-bottom: 15px #00514a;
+font-size: 80px;
+padding : 30px 50px;
+margin: auto;
+
+}
